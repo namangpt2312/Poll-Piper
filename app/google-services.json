@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "665166381851",
+    "project_id": "polling-piper-b6c2a",
+    "storage_bucket": "polling-piper-b6c2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665166381851:android:bc7f84e1ea05323706c9be",
+        "android_client_info": {
+          "package_name": "com.example.pollingpiper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665166381851-dh6vf5adcfgej38fcnbfv4giokccrvoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnckuBp3Z4xnr4LMDq1Rmk9yLoBwWZwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665166381851-dh6vf5adcfgej38fcnbfv4giokccrvoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665166381851:android:6149dcfd726ed8b306c9be",
+        "android_client_info": {
+          "package_name": "com.example.pollpiper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665166381851-ilhha4il4gl9qsfse78geq74vo0fqu0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pollpiper",
+            "certificate_hash": "b96495b1d9f7306f0cc4a22c6cb59e80c48eceff"
+          }
+        },
+        {
+          "client_id": "665166381851-dh6vf5adcfgej38fcnbfv4giokccrvoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnckuBp3Z4xnr4LMDq1Rmk9yLoBwWZwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665166381851-dh6vf5adcfgej38fcnbfv4giokccrvoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
